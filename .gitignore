@@ -1,0 +1,78 @@
+uploads/
+db/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE configs
+.vscode/
+.idea/
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Pytest / coverage
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# MyPy / type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# FastAPI specific
+# Uvicorn / gunicorn logs
+*.pid
+
+# Env files
+.env
+.env.*
+*.secret
+
+# Database / local storage
+*.db
+*.sqlite3
+*.sqlite
+instance/
+uploads/
+media/
+tmp/
+
+# Docker / build
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Byte-compiled / cython
+*.pyd
+*.so
+*.dll
+
+# Jupyter notebooks checkpoints (if you test notebooks)
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+__pypackages__/
+
+# VSCode settings
+.vscode/
