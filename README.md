@@ -4,6 +4,10 @@
 
 [https://rag.shibamnaskar.in/](https://rag.shibamnaskar.in/)
 
+## Architecture
+<img width="1217" height="529" alt="image" src="https://github.com/user-attachments/assets/f3d15e52-70ae-4874-b1ed-a295d54f00ec" />
+
+
 ## 🛠️ Installation
 
 ### Install system dependencies (Linux)
